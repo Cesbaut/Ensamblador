@@ -15,7 +15,7 @@ main proc FAR
     mov ds,ax
    
    
-   mov cx,10d
+    mov cx,05d
 bucle:
     mov ah, 09h
     lea dx, letrero1
