@@ -1,4 +1,3 @@
-.286 ; ARQUITECTURA
 pila segment stack; segmento de pila
     db 32 DUP('stack--'); define una localidad de 32
 pila ends; cerramos segmento
